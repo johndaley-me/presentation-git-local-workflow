@@ -1,0 +1,22 @@
+[
+    "title.md",
+    "motivation.md",
+    "goal.md",
+    "audience.md",
+    "first-pull-request.md",
+    "independent-small-feature.md",
+    "dependent-small-feature.md",
+    "large-feature.md",
+    "continuous-integration-quote.md",
+    "large-feature-decompose.md",
+    "rebase.md",
+    "interactive-rebase.md",
+    "rebase-vs-merge.md",
+    "rebase-is-smart.md",
+    "tip-git-mv.md",
+    "tip-feature-toggle.md",
+    "tip-local-branch-naming.md",
+    "tip-delete-obsolete-branches.md",
+    "picks.md",
+    "resources.md"
+]
