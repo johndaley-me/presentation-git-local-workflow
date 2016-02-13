@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Git Local Workflow",
+    "packageVersion": "0.0.0",
+    "revealTheme": "blood",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "johndaley-me",
+    "githubRepository": "presentation-git-local-workflow"
+  }
+}
